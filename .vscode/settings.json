@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "${workspaceFolder}/ai_python/bin/python",
+    "python.linting.pylintEnabled": false
+}
